@@ -8,9 +8,6 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://bit.ly/amrhfy-portfolio)](https://bit.ly/amrhfy-portfolio)
 [![Github](https://img.shields.io/github/followers/amrhfy?label=Follow&style=social)](https://github.com/amrhfy)
 
-- 🤔 I’m currently learning Laravel.
-
-
 ### 🖥 Skills
 
 - Web Design
